@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ALL & ~E_DEPRECATED & ~E_WARNING);
 /**
  * 小米运动(Zepp Life)刷步数引擎 - Zepp API 版(纯 API, 去网页)
  *
